@@ -4,6 +4,6 @@ That is UITable with customcell file
 
 You can watch how to make it in my youtube channel !
 
-https://www.youtube.com/watch?v=Ir7_6Urltik&edit=vd
+https://youtu.be/o_VsUK3mmPw
 
 Thank you :)

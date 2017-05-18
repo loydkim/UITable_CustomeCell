@@ -2,7 +2,7 @@
 
 That is UITable with customcell file
 
-* Develop environment.
+Develop environment.
 
 - Xcode Version : 8.0
 - OS Version : OS X EI Caption 10.11.6
